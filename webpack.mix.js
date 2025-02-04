@@ -56,3 +56,4 @@ mix.js('src/js/app.js', 'dist/js')
 //   postCss: [] // Post-CSS options: https://github.com/postcss/postcss/blob/master/docs/plugins.md
 // });
 
+// Comentario
